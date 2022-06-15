@@ -7,4 +7,6 @@
 - url: `/`
 - method: `GET`
 
+---
+
 _All other requests will return errors_
