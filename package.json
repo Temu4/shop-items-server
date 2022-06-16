@@ -1,15 +1,15 @@
 {
   "name": "shop-items-server",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "A sample Node.js server with Shop Items API",
+  "engines": {
+    "node": "16.x"
+  },
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "engines": {
-    "node": "14.x"
-  }
+  "license": "ISC"
 }
