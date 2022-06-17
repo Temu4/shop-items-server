@@ -7,4 +7,4 @@ const PORT = process.env.PORT || 80;
 
 const server = http.createServer(router);
 
-server.listen(PORT);
+server.listen(PORT, () => console.log('Server listening on port', PORT));
